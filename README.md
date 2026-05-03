@@ -1,2 +1,2 @@
 # MATLAB-LABWORK-in-IZTECH-EEE
-This repository contains MATLAB,GUI,SIMULINK modules, simulations, and lab assignments developed for the Signal and Sytems, Communication Sytems I and II courses. It includes implementations of fundamental digital,analog conversations  and practical exercises used throughout laboratory sessions.
+This repository contains laboratory work and implementations developed for the Signals and Systems course. It includes seven lab exercises focused on signal analysis, system behavior, transformations, and practical applications using course-related tools.
