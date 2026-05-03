@@ -1,1 +1,1 @@
-
+This repository contains laboratory work and simulation-based experiments developed for the Analog Communications course. It includes practical lab exercises covering fundamental analog modulation techniques, signal analysis, and communication system experiments.
