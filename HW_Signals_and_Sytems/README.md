@@ -1,7 +1,7 @@
 
 # EE331 Signals and Systems Homework
 
-This project was prepared for the EE331 Signals and Systems course. The main goal of the assignment is to analyze a real audio recording of musical notes in both time and frequency domains, estimate the fundamental frequencies of the notes, and design a digital filter to isolate a selected note. The homework also includes a simple MATLAB GUI for loading audio, visualizing signals, applying filters, and playing the original/filtered sounds. :contentReference[oaicite:0]{index=0}
+This project was prepared for the EE331 Signals and Systems course. The main goal of the assignment is to analyze a real audio recording of musical notes in both time and frequency domains, estimate the fundamental frequencies of the notes, and design a digital filter to isolate a selected note. The homework also includes a simple MATLAB GUI for loading audio, visualizing signals, applying filters, and playing the original/filtered sounds.
 
 ## What I Did
 
